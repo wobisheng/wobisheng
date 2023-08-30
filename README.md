@@ -1,7 +1,7 @@
   <div align="center">
     <p>Hi there 👋</p>
     <p>一只摄影师🌱</p>
-    <p><a href="https://blog.inventor.ink">🔗blog</a></p>
+    <p><a href="https://blog.wobisheng.top">🔗blog</a></p>
     <p><a href="https://unsplash.com/@minecraftinventor">📷images</a></p>
   </div>
   <p align="center">
